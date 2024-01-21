@@ -1,9 +1,9 @@
 {
-  "name": "Example Plugin",
-  "author": "John Doe",
+  "name": "Auto WiFi Booster",
+  "author": "ArgonGlow",
   "flags": ["debug", "_root"],
   "publish": {
-    "tags": ["template", "root"],
+    "tags": ["wifi", "power management", "power", "wifi booster"],
     "description": "Decky example plugin.",
     "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
   }
